@@ -20,6 +20,7 @@ Foi a curiosidade que me fez tomar a iniciativa de migrar de área e posso dizer
     <img alt="SQLite" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> 
     <img alt="Canva" src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/> 
      <img alt="Figma" src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+    <img alt="Excel" src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=whit"/>
 
 <div>
 
