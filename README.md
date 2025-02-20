@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Eduarda Bernardino 🙂👋
 
-Sobre Mim: Sou advogada e apaixonada por tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas e me aperfeiçoando na área de dados pois quero me especializar como cientista de dados.
+Sou advogada e apaixonada por tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas e me aperfeiçoando na área de dados pois quero me especializar como cientista de dados.
 Foi a curiosidade que me fez tomar a iniciativa de migrar de área e posso dizer que foi a melhor escolha que fiz!
 
 
