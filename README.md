@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Eduarda Bernardino 🙂👋
 
-Profissional em transição de carreira para a área de Tecnologia, com foco em Análise de Dados e Desenvolvimento Python. Tenho experiência prática em banco de dados (SQL e NoSQL), consumo de APIs, análise de dados e visualização com Power BI. Busco oportunidades para aplicar minhas habilidades técnicas e analíticas em projetos na área de análise de dados e desenvolvimento, utilizando Python, SQL e ferramentas de visualização, a fim de transformar dados em informações estratégicas.
+Profissional em transição de carreira para a área de Tecnologia, com foco em Análise de Dados e Desenvolvimento Python. Tenho experiência prática em banco de dados (SQL e NoSQL), consumo de APIs, análise de dados e visualização com Power BI. Venho aplicando minhas habilidades técnicas e analíticas em projetos na área de análise de dados e desenvolvimento, utilizando Python, SQL e ferramentas de visualização, a fim de transformar dados em informações estratégicas.
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-bernardino-b061a6213/) [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardaBernardino )   [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardabernardinoo06@gmail.com)
