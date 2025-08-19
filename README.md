@@ -1,15 +1,15 @@
 ### Profissional em transição de carreira para a área de Tecnologia, com foco em dados, desenvolvimento backend e soluções corporativas. Tenho investido na capacitação contínua em uma ampla gama de tecnologias, incluindo Python, Java, Swift, SQL, Power BI, FastAPI, APIs REST, Firebase, além de plataformas de grande porte como o Mainframe IBM Z (z/OS, JCL, USS).
 
-Sou movida pela curiosidade e pelo desejo constante de aprender, com especial interesse em como os dados e a tecnologia podem impulsionar a inovação, a eficiência e a inclusão em diferentes contextos.
+### Sou movida pela curiosidade e pelo desejo constante de aprender, com especial interesse em como os dados e a tecnologia podem impulsionar a inovação, a eficiência e a inclusão em diferentes contextos.
 
-Comunicativa, analítica e orientada a soluções, acredito que a tecnologia deve ser uma ponte entre pessoas, negócios e transformações eficazes.
+### Comunicativa, analítica e orientada a soluções, acredito que a tecnologia deve ser uma ponte entre pessoas, negócios e transformações eficazes.
 
 
-Professional transitioning into the Technology field, with a focus on data, backend development, and corporate solutions. I have been continuously expanding my skill set across a broad range of technologies, including Python, Java, Swift, SQL, Power BI, FastAPI, REST APIs, and Firebase, as well as large-scale platforms such as IBM Z Mainframe (z/OS, JCL, USS).
+### Professional transitioning into the Technology field, with a focus on data, backend development, and corporate solutions. I have been continuously expanding my skill set across a broad range of technologies, including Python, Java, Swift, SQL, Power BI, FastAPI, REST APIs, and Firebase, as well as large-scale platforms such as IBM Z Mainframe (z/OS, JCL, USS).
 
-Driven by curiosity and a constant desire to learn, I am especially interested in how data and technology can foster innovation, efficiency, and inclusion across various sectors.
+### Driven by curiosity and a constant desire to learn, I am especially interested in how data and technology can foster innovation, efficiency, and inclusion across various sectors.
 
-Communicative, analytical, and solution-oriented, I believe technology should serve as a bridge between people, businesses, and meaningful transformation.
+### Communicative, analytical, and solution-oriented, I believe technology should serve as a bridge between people, businesses, and meaningful transformation.
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-bernardino-b061a6213/) [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardaBernardino )   [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardabernardinoo06@gmail.com)
