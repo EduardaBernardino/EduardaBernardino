@@ -1,8 +1,10 @@
-### Profissional em transição de carreira para a área de Tecnologia, com foco em dados, desenvolvimento backend e soluções corporativas. Tenho investido na capacitação contínua em uma ampla gama de tecnologias, incluindo Python, Java, Swift, SQL, Power BI, FastAPI, APIs REST, Firebase, além de plataformas de grande porte como o Mainframe IBM Z (z/OS, JCL, USS).
+### Sou Analista de Dados com quase dois anos de experiência, movida por transformar dados em insights estratégicos e soluções práticas. Minha trajetória profissional tem sido construída a partir da análise de dados complexos, tratamento e organização de informações, criação de dashboards e relatórios, sempre com foco em suporte à tomada de decisão e identificação de oportunidades de negócio.
 
-### Sou movida pela curiosidade e pelo desejo constante de aprender, com especial interesse em como os dados e a tecnologia podem impulsionar a inovação, a eficiência e a inclusão em diferentes contextos.
+### Atuo de forma estruturada e analítica, buscando entender o contexto por trás dos números para identificar padrões, tendências e causas de problemas, propondo soluções eficientes e baseadas em dados. Ao longo da minha carreira, desenvolvi competências em ETL (SQL, Power Query), visualização de dados (Power BI, Excel), Python e metodologias ágeis (Scrum e Kanban), com atenção à governança e qualidade de dados.
 
-### Comunicativa, analítica e orientada a soluções, acredito que a tecnologia deve ser uma ponte entre pessoas, negócios e transformações eficazes.
+### Possuo sólida experiência em tratamento, limpeza e organização de dados (ETL), visualização em Power BI, desenvolvimento de aplicações e automações em Python, além da criação, manutenção e consultas em bancos de dados com SQL. Tenho forte capacidade analítica para gerar insights estratégicos e definir KPIs que apoiam decisões de negócio.
+
+### Habilidades: Análise e interpretação de dados • Visualização e comunicação de informações • SQL • Power BI (incluindo DAX) • Excel Avançado • Programação e ETL (Python, Power Query) • Modelagem e arquitetura de dados • Governança e qualidade de dados • Metodologias ágeis (Scrum e Kanban)
 
 
 
