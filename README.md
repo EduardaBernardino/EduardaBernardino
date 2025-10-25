@@ -1,4 +1,4 @@
-### Sou Analista de Dados com quase dois anos de experiência, movida por transformar dados em insights estratégicos e soluções práticas. Minha trajetória profissional tem sido construída a partir da análise de dados complexos, tratamento e organização de informações, criação de dashboards e relatórios, sempre com foco em suporte à tomada de decisão e identificação de oportunidades de negócio.
+### Sou Analista de Dados movida por transformar dados em insights estratégicos e soluções práticas. Minha trajetória profissional tem sido construída a partir da análise de dados complexos, tratamento e organização de informações, criação de dashboards e relatórios, sempre com foco em suporte à tomada de decisão e identificação de oportunidades de negócio.
 
 ### Atuo de forma estruturada e analítica, buscando entender o contexto por trás dos números para identificar padrões, tendências e causas de problemas, propondo soluções eficientes e baseadas em dados. Ao longo da minha carreira, desenvolvi competências em ETL (SQL, Power Query), visualização de dados (Power BI, Excel), Python e metodologias ágeis (Scrum e Kanban), com atenção à governança e qualidade de dados.
 
