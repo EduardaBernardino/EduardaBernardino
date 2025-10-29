@@ -1,12 +1,13 @@
-### Sou Analista de Dados movida por transformar dados em insights estratégicos e soluções práticas. Minha trajetória profissional tem sido construída a partir da análise de dados complexos, tratamento e organização de informações, criação de dashboards e relatórios, sempre com foco em suporte à tomada de decisão e identificação de oportunidades de negócio.
+### Sou Analista de Dados há 2 anos, com sólida experiência na transformação de informações em insights estratégicos e soluções que impulsionam resultados. Venho atuando de forma estruturada e analítica, conduzindo projetos que integram tecnologia, automação e inteligência de negócios para otimizar processos e apoiar decisões assertivas.
 
-### Atuo de forma estruturada e analítica, buscando entender o contexto por trás dos números para identificar padrões, tendências e causas de problemas, propondo soluções eficientes e baseadas em dados. Ao longo da minha carreira, desenvolvi competências em ETL (SQL, Power Query), visualização de dados (Power BI, Excel), Python e metodologias ágeis (Scrum e Kanban), com atenção à governança e qualidade de dados.
 
-### Possuo sólida experiência em tratamento, limpeza e organização de dados (ETL), visualização em Power BI, desenvolvimento de aplicações e automações em Python, além da criação, manutenção e consultas em bancos de dados com SQL. Tenho forte capacidade analítica para gerar insights estratégicos e definir KPIs que apoiam decisões de negócio.
+### Entre minhas principais entregas, destaco o desenvolvimento de integrações via APIs e Power Automate para automação de dashboards no Power BI, reduzindo significativamente o esforço operacional das equipes. Realizei a criação de um painel inteligente para monitoramento diário das cotações da soja, consolidando dados de múltiplas fontes para embasar decisões estratégicas. Também atuei na análise de campanhas de marketing, estruturando KPIs e indicadores de performance voltados à precificação, segmentação regional e oportunidades de mercado.
+
+### Fui responsável pela criação e prototipagem de sites para uma clínica odontológica e um holding de negócios, além do desenvolvimento de um aplicativo próprio para troca de serviços.
+
+### Tenho domínio em processos de ETL (SQL, Power Query), visualização e storytelling de dados (Power BI, Excel), além de experiência em desenvolvimento de aplicações e automações em Python. Meu propósito é transformar dados em valor, conectando análise, estratégia e inovação para gerar impacto real nos negócios.
 
 ### Habilidades: Análise e interpretação de dados • Visualização e comunicação de informações • SQL • Power BI (incluindo DAX) • Excel Avançado • Programação e ETL (Python, Power Query) • Modelagem e arquitetura de dados • Governança e qualidade de dados • Metodologias ágeis (Scrum e Kanban)
-
-
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-bernardino-b061a6213/) [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardaBernardino )   [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardabernardinoo06@gmail.com)
