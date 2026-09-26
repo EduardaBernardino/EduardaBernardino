@@ -1,14 +1,17 @@
-### Sou Profissional de Dados com experiência na transformação de informações em insights estratégicos e soluções que impulsionam resultados. Venho atuando de forma estruturada e analítica, conduzindo projetos que integram tecnologia, automação e inteligência de negócios para otimizar processos e apoiar decisões assertivas.
+### Sou profissional de Dados com experiência na transformação de dados em informações relevantes para apoiar decisões de negócio, otimizar processos e gerar eficiência operacional. Atuo na interseção entre Analytics Engineering, Data Science e Business Intelligence, combinando visão de negócio, análise de dados e tecnologia para desenvolver soluções orientadas a resultados.
+
+### Tenho experiência prática com SQL, Python, dbt, Power BI, DAX, ETL/ELT, APIs e modelagem de dados, atuando desde a preparação e integração das informações até a construção de indicadores, dashboards e soluções analíticas.
+
+### Entre minhas principais entregas, destaco o desenvolvimento de integrações via APIs e Power Automate para automação de dashboards no Power BI, reduzindo significativamente o esforço operacional das equipes e aumentando a confiabilidade dos dados. Também desenvolvi um painel inteligente para monitoramento diário das cotações da soja, consolidando dados de múltiplas fontes para apoiar decisões estratégicas. 
 
 
-### Entre minhas principais entregas, destaco o desenvolvimento de integrações via APIs e Power Automate para automação de dashboards no Power BI, reduzindo significativamente o esforço operacional das equipes e aumentando a confiabilidade dos dados. Desenvolvi a criação de um painel inteligente para monitoramento diário das cotações da soja, consolidando dados de múltiplas fontes para embasar decisões estratégicas. Também atuei na análise de campanhas de marketing, estruturando KPIs e indicadores de performance voltados à precificação, segmentação regional e oportunidades de mercado.
+### Na área de Inteligência de Mercado, atuei com KPIs, pricing, segmentação regional, análise de campanhas e identificação de oportunidades, utilizando dados para apoiar estratégias comerciais e de marketing.
 
-### Fui responsável pela criação e prototipagem de sites para uma clínica odontológica e um holding de negócios, além do desenvolvimento de um aplicativo próprio para troca de serviços.
+### Além disso, possuo experiência no desenvolvimento e prototipagem de aplicações digitais, conectando tecnologia, dados e necessidades de negócio para transformar ideias em soluções funcionais.
 
-### Tenho domínio em processos de ETL (SQL, Power Query), visualização e storytelling de dados (Power BI, Excel), além de desenvolvimento de automações e análises com Python. Busco gerar valor por meio de dados, conectando análise, estratégia e tecnologia para impacto nos resultados do negócio.
+### Atualmente, estou aprofundando minha especialização em Ciência de Dados e Inteligência Artificial na Unicamp, com foco em Machine Learning, análises avançadas e aplicação de técnicas de dados na resolução de problemas reais. Busco atuar em projetos que conectem dados, tecnologia e negócio, contribuindo para a construção de soluções escaláveis, confiáveis e orientadas à tomada de decisão.
 
-
-
+### Habilidades:  Analytics Engineering • Data Science & Machine Learning • Data Modeling • SQL • Python • dbt • Power BI & DAX • ETL/ELT • APIs • Data Governance • Data Quality • Business Intelligence
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduarda-bernardino-b061a6213/) [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardaBernardino )   [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardabernardinoo06@gmail.com)
 
