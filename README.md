@@ -3,7 +3,7 @@
 ### Sou a Eduarda, uma profissional de dados com experiência na transformação, integração e análise de dados para apoiar decisões de negócio, otimizar processos e gerar eficiência operacional. Atuo na interseção entre Data Science, Analytics Engineering e Business Intelligence, combinando estatística, programação, modelagem de dados e visão de negócio para desenvolver soluções orientadas a resultados.
 
 
-### Possuo experiência com Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, DAX, ETL/ELT, APIs, Databricks e modelagem de dados, atuando desde a preparação e exploração dos dados até a construção de modelos, indicadores, dashboards e soluções analíticas. Também possuo conhecimentos em análise estatística e visualização de dados. 
+### Possuo experiência com Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, DAX, ETL/ELT, APIs, Databricks e modelagem de dados, atuando desde a preparação e exploração dos dados até a construção de modelos, indicadores, dashboards e soluções analíticas. Também possuo conhecimentos em estatística, Machine Learning e visualização de dados.
 
 
 ### Atualmente, estou aprofundando minha especialização em Ciência de Dados e Inteligência Artificial na Unicamp, com foco em Machine Learning, análises avançadas e aplicação de técnicas de dados na resolução de problemas reais. Busco atuar em projetos que conectem dados, tecnologia e negócio, contribuindo para a construção de soluções escaláveis, confiáveis e orientadas à tomada de decisão.
