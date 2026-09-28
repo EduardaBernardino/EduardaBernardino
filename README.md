@@ -1,6 +1,6 @@
 ### Sou profissional de Dados com experiência na transformação de dados em informações relevantes para apoiar decisões de negócio, otimizar processos e gerar eficiência operacional. Atuo na interseção entre Analytics Engineering, Data Science e Business Intelligence, combinando visão de negócio, análise de dados e tecnologia para desenvolver soluções orientadas a resultados.
 
-### Tenho experiência prática com SQL, Python, dbt, Power BI, DAX, ETL/ELT, APIs e modelagem de dados, atuando desde a preparação e integração das informações até a construção de indicadores, dashboards e soluções analíticas.
+### Tenho experiência prática com SQL, Python, Power BI, DAX, ETL/ELT, APIs e modelagem de dados, atuando desde a preparação e integração das informações até a construção de indicadores, dashboards e soluções analíticas.
 
 ### Entre minhas principais entregas, destaco o desenvolvimento de integrações via APIs e Power Automate para automação de dashboards no Power BI, reduzindo significativamente o esforço operacional das equipes e aumentando a confiabilidade dos dados. Também desenvolvi um painel inteligente para monitoramento diário das cotações da soja, consolidando dados de múltiplas fontes para apoiar decisões estratégicas. 
 
