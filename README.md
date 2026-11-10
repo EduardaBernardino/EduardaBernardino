@@ -8,7 +8,6 @@
 
 ### Atualmente, estou aprofundando minha especialização em Ciência de Dados e Inteligência Artificial na Unicamp, com foco em Machine Learning, análises avançadas e aplicação de técnicas de dados na resolução de problemas reais. Busco atuar em projetos que conectem dados, tecnologia e negócio, contribuindo para a construção de soluções escaláveis, confiáveis e orientadas à tomada de decisão.
 
-### Busco atuar em projetos que conectem Ciência de Dados, tecnologia e estratégia de negócio, transformando dados em soluções escaláveis, confiáveis e capazes de gerar valor.
 
 ### Habilidades:  Analytics Engineering • Data Science & Machine Learning • Data Modeling • SQL • Python • Power BI & DAX • ETL/ELT • APIs • Data Governance • Data Quality • Business Intelligence
 
